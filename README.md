@@ -21,9 +21,9 @@ Proyek ini dapat dijadikan referensi untuk:
 
 - 📦 lomba-undip-ml
 - 📘 full_code_lomba_undip.ipynb (Notebook utama)
-- 📄 submit_lomba_undip.csv # File hasil submission ke Kaggle
-- 📄 README.md # Dokumentasi proyek
-- 📄 requirements.txt # Dependency untuk menjalankan notebook
+- 📄 submit_lomba_undip.csv (File hasil submission ke Kaggle)
+- 📄 README.md (Dokumentasi proyek)
+- 📄 requirements.txt (Dependency untuk menjalankan notebook)
 
 ---
 
