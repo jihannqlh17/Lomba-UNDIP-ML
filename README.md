@@ -95,11 +95,3 @@ Seluruh proses evaluasi juga dijelaskan dalam notebook.
 - Validasi model secara *cross-validation* mencegah overfitting dan menghasilkan model yang lebih stabil.  
 - Ensemble dari beberapa model bisa meningkatkan skor di leaderboard.
 
----
-
-## ⚙️ Requirements
-
-Untuk menjalankan proyek ini, pastikan sudah menginstal dependency berikut:
-
-```bash
-pip install -r requirements.txt
