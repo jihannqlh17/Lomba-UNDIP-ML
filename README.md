@@ -3,6 +3,12 @@
 **Final Score:** 🥈 **533** on Kaggle Leaderboard  
 **Author:** [Jihan Aqilah](https://github.com/jihan-aqilah)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.3-orange?logo=pytorch)
+![Transformers](https://img.shields.io/badge/Transformers-4.44.0-yellow?logo=huggingface)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-green?logo=scikitlearn)
+![Kaggle Score](https://img.shields.io/badge/Score-533-lightgrey?logo=kaggle)
+
 ---
 
 ## 📘 Overview
